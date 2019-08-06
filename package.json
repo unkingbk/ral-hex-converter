@@ -1,0 +1,16 @@
+{
+	"name": "ral-hex-converter",
+	"version": "1.0.1",
+	"description": "Color converter (RAL, HEX)",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"keywords": [ "ral", "hex", "color", "converter", "pallet" ],
+	"author": "v.matokin@nodeart.io",
+	"license": "MIT",
+	"devDependencies": {
+		"tape": "^4.11.0"
+	}
+}
