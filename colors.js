@@ -641,8 +641,9 @@ const HexPalette = [
 	'#292C2F': 'RAL9011',
 	'#F7FBF5': 'RAL9016',
 	'#2A2D2F': 'RAL9017',
-	'#CFD3CD': 'RAL9022',
-	'#9C9C9C': 'RAL9023'
+	'#CFD3CD': 'RAL9018',
+	'#9C9C9C': 'RAL9022',
+	'#7E8182': 'RAL9023'
   }
 
   module.exports = {
