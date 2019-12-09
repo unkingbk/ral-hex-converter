@@ -597,7 +597,7 @@ const HexPalette = [
 	'#B9B9A8': 'RAL7032',
 	'#818979': 'RAL7033',
 	'#939176': 'RAL7034',
-	'#CBD0CC': 'RAL9018',
+	'#CBD0CC': 'RAL7035',
 	'#9A9697': 'RAL7036',
 	'#7C7F7E': 'RAL7037',
 	'#B4B8B0': 'RAL7038',
