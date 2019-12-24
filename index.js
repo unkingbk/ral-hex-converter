@@ -41,6 +41,3 @@ Converter.prototype.toRal = function(hex) {
 const instance = new Converter();
 
 module.exports = instance;
-
-console.log(instance.toRal("292C2F"))
-// console.log(instance.fromHex("292C2F").RAL)
