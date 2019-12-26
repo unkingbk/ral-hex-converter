@@ -2,7 +2,7 @@
 const { RalPalette } = require('./colors');
 
 function Converter() {
-
+	this.rals = RalPalette
 }
 
 Converter.prototype.fromRal  = function(ralName) {
