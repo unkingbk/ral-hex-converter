@@ -1698,7 +1698,7 @@ const RalPalette = [{
     HEX: "#51565C",
     German: "Schiefergrau",
     English: "Slate grey",
-    French: "Gris ardoise",
+    French: "Gris foncé",
     Spanish: "Gris pizarra",
     Italian: "Grigio ardesia",
     Nederlands: "Leigrijs"
